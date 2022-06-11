@@ -1,0 +1,53 @@
+@charset "utf-8";
+#logo{
+	height: 180px;
+	width: auto;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+.logo1{
+	float: left;
+}
+.logo2{
+	margin-left: 290px;
+	margin-right: 290px;
+	margin-top: 75px;
+	float: left;
+}
+.logo3{
+	float: left;
+}
+#nav{
+	width: 1600px;
+	height: 60px;
+	margin: 0 auto;
+	background-color: #101022;
+	font-size: 20px;
+	position: sticky;
+	top: 0;
+}
+#nav a{
+	color: white;
+	text-decoration: none;
+}
+#nav a:hover{
+	color: #0C10DB;
+}
+#nav li{
+	width: 20%;
+	height: 60px;
+	text-align: center;
+	float: left;
+	line-height: 45px;
+	color: white;
+	list-style-type: none;
+}
+#h3{
+	font-family: 微软雅黑;
+	font-size: 10px;
+}
+.guanyu a{
+	margin-left: 1500px;
+	margin-top: auto;
+	text-decoration: none;
+}

@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+#tuFL {
+	width: 1600px;
+	height: auto;
+}
+.tuFL1 {
+	float: left;
+	width: 1180px;
+	height: auto;
+}
+.tu{
+	width: 1180px;
+	height: auto;
+	float: left;
+	margin-left: 18px;
+	margin-right: 18px;
+}
+.tu li{
+	width: 240px;
+	height: auto;
+	overflow: hidden;
+	float: left;
+	margin-left: 18px;
+	margin-right: 18px;
+	list-style-type: none;
+	text-align: center;
+	border: 10px;
+}
+.tu img {
+	width: 100%;
+	height: 320px;
+}
+.tu a{
+	color: black;
+	font-size: 15px;
+	text-decoration: none;
+}
+.tu a:hover{
+	color: #484ACD;
+}
+.tu1 li:hover{
+	background-color: #A7C7E5;
+}
+.tuFL2 {
+	float: left;
+	width: 400px;
+}
+.tuFL2 ul {
+	float: left;
+	margin-bottom: 10px;
+}
+.tuFL2 li {
+	float: left;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	list-style-type: none;
+}
+.tuFL2 a{
+	text-decoration: none;
+	color: #252020;
+}
+.tuFL2 a:hover{
+	color: #0C10DB;
+}

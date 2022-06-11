@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+#h2{
+	font-family: 微软雅黑;
+	color: black;
+}
+#p{
+	font-size: 25px;
+}
+.tu{
+	width: 1440px;
+	height: auto;
+	margin-left: 70px;
+	margin-right: 70px;
+}
+.tu li{
+	width: 240px;
+	height: auto;
+	overflow: hidden;
+	float: left;
+	margin-left: 18px;
+	margin-right: 18px;
+	list-style-type: none;
+	text-align: center;
+	border: 5px;
+}
+.tu img {
+	width: 100%;
+	height: 320px;
+}
+.tu a{
+	color: black;
+	font-size: 15px;
+	text-decoration: none;
+}
+.tu a:hover{
+	color: #484ACD;
+}
+.tu1 li:hover{
+	background-color: #A7C7E5;
+}
