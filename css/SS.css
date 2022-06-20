@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+input {
+    font-family: Microsoft YaHei;
+    border: 0; 
+    outline: none;
+}
+.search{
+  position: absolute;
+  left: 555px;
+  top:400px;
+  width: 538px;
+  height: 36px;
+  border: 3px solid #EFA1D2;
+}
+.search input{
+  float: left;
+  width: 454px;
+  height: 33px;
+  padding-left: 10px;
+}
+.search button{
+  float: left;
+  width: 84px;
+  height: 35px;
+  background-color: #EFA1D2;
+  font-size: 16px;
+  color: #fff;
+}
+.search a{
+	text-decoration: none;
+}
+.resou{
+	margin-top: 150px;
+	margin-left: 530px;
+	margin-bottom: 200px;
+	float: left;
+}
+.resou li{
+	list-style-type: none;
+	margin-bottom: 26px;
+}
+.resou a{
+	text-decoration: none;
+}
+.resou a:hover{
+	color: #ACF8CF;
+}
+.resou_0{
+	margin-top: 195px;
+	margin-left: 160px;
+	float: left;
+}
+.resou_0 li{
+	list-style-type: none;
+	margin-bottom: 28px;
+}
+.resou_0 a{
+	text-decoration: none;
+}
+.resou_0 a:hover{
+	color: #ACF8CF;
+}

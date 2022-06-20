@@ -1,20 +1,19 @@
 @charset "utf-8";
 #logo{
-	height: 180px;
+	height: 250px;
 	width: auto;
 	margin-left: 120px;
 	margin-right: 120px;
 }
-.logo1{
-	float: left;
+.ditu{
+	width: 1600px;
+	height: 250px;
+	background-image:url("../img/LOGO/ditu1.jpg");
 }
 .logo2{
-	margin-left: 290px;
-	margin-right: 290px;
-	margin-top: 75px;
-	float: left;
-}
-.logo3{
+	margin-left: 520px;
+	margin-right: 250px;
+	margin-top: 48px;
 	float: left;
 }
 #nav{
@@ -31,14 +30,14 @@
 	text-decoration: none;
 }
 #nav a:hover{
-	color: #0C10DB;
+	color: #74E3F5;
 }
 #nav li{
 	width: 20%;
 	height: 60px;
 	text-align: center;
 	float: left;
-	line-height: 45px;
+	line-height: 60px;
 	color: white;
 	list-style-type: none;
 }
@@ -46,8 +45,38 @@
 	font-family: 微软雅黑;
 	font-size: 10px;
 }
-.guanyu a{
-	margin-left: 1500px;
-	margin-top: auto;
-	text-decoration: none;
+.GRXX{
+	width: 1600px;
+	height: 240px;
+	padding-top: 10px;
+	background-image: url("../img/gr/辉夜2.jpg");
+}
+.GRXX_0{
+	width: 330px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.GRXX_0 ul{
+	float: left;
+}
+.GRXX_0 li{
+	font-family: "宋体";
+	font-size: 20px;
+	list-style-type: none;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: auto;
+	color: #C3FFED;
+}
+.GRXX_1 {
+	width: 320px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.GRXX_1 p{
+	font-family: "宋体";
+	font-size: 20px;
+	text-align: center;
+	color: #C3FFED;
 }
