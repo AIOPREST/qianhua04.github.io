@@ -80,3 +80,8 @@
 	text-align: center;
 	color: #C3FFED;
 }
+body{
+	width: 1600px;
+	margin-left: auto;
+	margin-right: auto;
+}
